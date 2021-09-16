@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+  }
+.container-one{
+    background-color: grey;
+    width: 100%;
+    height: 16vh;
+}
+.square {
+    background-color: blue;
+    height: 75px;
+    width: 75px;
+    display: inline-block;
+    padding: 25px;
+    margin: 10px;
+}
+.container-two{
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    height: 20vh;
+}
+.container-three{
+    background-color: rgb(42, 8, 235);
+    width: 100%;
+    height: 16vh;
+}
+.container-four{
+    background-color: rgb(23, 142, 163);
+    width: 100%;
+    height: 16vh;
+}
+.container-five{
+    background-color: rgb(107, 121, 48);
+    width: 100%;
+    height: 16vh;
+}
+.container-six{
+     background-color: rgb(235, 231, 19);
+    width: 100%;
+    height: 16vh;
+}
